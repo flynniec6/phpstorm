@@ -8,11 +8,8 @@
   </action>
   <action id="ParameterInfo" />
   <action id="Refresh" />
-  <action id="Replace">
-    <keyboard-shortcut first-keystroke="ctrl r" />
-  </action>
+  <action id="Replace" />
   <action id="Rerun" />
-  <action id="Run" />
   <action id="UsageView.Rerun" />
   <action id="org.intellij.plugins.markdown.ui.actions.editorLayout.CyclicSplitLayoutChangeAction" />
 </keymap>

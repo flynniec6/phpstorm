@@ -8,8 +8,11 @@
   </action>
   <action id="ParameterInfo" />
   <action id="Refresh" />
-  <action id="Replace" />
+  <action id="Replace">
+    <keyboard-shortcut first-keystroke="ctrl r" />
+  </action>
   <action id="Rerun" />
+  <action id="Run" />
   <action id="SwitchApply">
     <keyboard-shortcut first-keystroke="ctrl alt enter" />
   </action>

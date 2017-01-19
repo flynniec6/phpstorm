@@ -3,11 +3,15 @@
     <property name="created">2017-01-19T11:27:10</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2016.3.2.0.0</property>
-    <property name="modified">2017-01-19T11:27:30</property>
+    <property name="modified">2017-01-19T11:30:30</property>
     <property name="originalScheme">_@user_Solarized Dark</property>
   </metaInfo>
+  <option name="LINE_SPACING" value="1.2" />
   <option name="EDITOR_FONT_SIZE" value="12" />
-  <option name="EDITOR_FONT_NAME" value="Menlo" />
+  <option name="EDITOR_LIGATURES" value="true" />
+  <option name="CONSOLE_FONT_NAME" value="Menlo" />
+  <option name="CONSOLE_LINE_SPACING" value="1.0" />
+  <option name="EDITOR_FONT_NAME" value="Hack" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="baffba" />
     <option name="ANNOTATIONS_COLOR" value="586e75" />
@@ -1517,6 +1521,11 @@
         <option name="FOREGROUND" value="859900" />
       </value>
     </option>
+    <option name="PHP_PARAMETER">
+      <value>
+        <option name="FOREGROUND" value="268bd2" />
+      </value>
+    </option>
     <option name="PHP_SCRIPTING_BACKGROUND">
       <value>
         <option name="BACKGROUND" value="2b36" />
@@ -1525,6 +1534,11 @@
     <option name="PHP_TAG">
       <value>
         <option name="FOREGROUND" value="dc322f" />
+      </value>
+    </option>
+    <option name="PHP_VAR">
+      <value>
+        <option name="FOREGROUND" value="2678bf" />
       </value>
     </option>
     <option name="PROPERTIES.INVALID_STRING_ESCAPE">

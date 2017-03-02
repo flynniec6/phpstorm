@@ -22,6 +22,14 @@
     <indentOptions>
       <option name="USE_TAB_CHARACTER" value="true" />
     </indentOptions>
+    <arrangement>
+      <groups>
+        <group>
+          <type>DEPENDENT_METHODS</type>
+          <order>DEPTH_FIRST</order>
+        </group>
+      </groups>
+    </arrangement>
   </codeStyleSettings>
   <codeStyleSettings language="SQL">
     <option name="SPACE_WITHIN_PARENTHESES" value="true" />

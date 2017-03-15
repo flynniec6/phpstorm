@@ -1,7 +1,11 @@
 <code_scheme name="Gyron Format">
   <option name="AUTODETECT_INDENTS" value="false" />
   <SqlCodeStyleSettings>
+    <option name="ALIGN_TYPE_IN_CREATE_STATEMENT" value="false" />
+    <option name="ALIGN_TYPE_IN_BLOCK_STATEMENT" value="false" />
     <option name="NEW_LINE_BEFORE_OTHER_CLAUSES" value="false" />
+    <option name="INDENT_SELECT_INTO_CLAUSE" value="true" />
+    <option name="QUOTE_IDENTIFIER" value="0" />
     <option name="IDENTIFIER_CASE" value="1" />
   </SqlCodeStyleSettings>
   <codeStyleSettings language="PHP">
@@ -43,7 +47,7 @@
     <option name="SPACE_WITHIN_METHOD_PARENTHESES" value="true" />
     <indentOptions>
       <option name="CONTINUATION_INDENT_SIZE" value="2" />
-      <option name="USE_TAB_CHARACTER" value="true" />
+      <option name="TAB_SIZE" value="1" />
     </indentOptions>
   </codeStyleSettings>
   <codeStyleSettings language="Twig">

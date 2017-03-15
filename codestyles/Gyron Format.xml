@@ -26,7 +26,7 @@
       <groups>
         <group>
           <type>DEPENDENT_METHODS</type>
-          <order>DEPTH_FIRST</order>
+          <order>BREADTH_FIRST</order>
         </group>
       </groups>
     </arrangement>

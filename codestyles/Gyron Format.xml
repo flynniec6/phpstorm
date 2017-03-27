@@ -1,5 +1,9 @@
 <code_scheme name="Gyron Format">
   <option name="AUTODETECT_INDENTS" value="false" />
+  <JSCodeStyleSettings>
+    <option name="SPACES_WITHIN_OBJECT_LITERAL_BRACES" value="true" />
+    <option name="SPACES_WITHIN_IMPORTS" value="true" />
+  </JSCodeStyleSettings>
   <SqlCodeStyleSettings>
     <option name="ALIGN_TYPE_IN_CREATE_STATEMENT" value="false" />
     <option name="ALIGN_TYPE_IN_BLOCK_STATEMENT" value="false" />
@@ -8,6 +12,16 @@
     <option name="QUOTE_IDENTIFIER" value="0" />
     <option name="IDENTIFIER_CASE" value="1" />
   </SqlCodeStyleSettings>
+  <codeStyleSettings language="JavaScript">
+    <option name="SPACE_WITHIN_METHOD_CALL_PARENTHESES" value="true" />
+    <option name="SPACE_WITHIN_METHOD_PARENTHESES" value="true" />
+    <option name="SPACE_WITHIN_IF_PARENTHESES" value="true" />
+    <option name="SPACE_WITHIN_WHILE_PARENTHESES" value="true" />
+    <option name="SPACE_WITHIN_FOR_PARENTHESES" value="true" />
+    <option name="SPACE_WITHIN_CATCH_PARENTHESES" value="true" />
+    <option name="SPACE_WITHIN_SWITCH_PARENTHESES" value="true" />
+    <option name="SPACE_WITHIN_BRACKETS" value="true" />
+  </codeStyleSettings>
   <codeStyleSettings language="PHP">
     <option name="CLASS_BRACE_STYLE" value="1" />
     <option name="METHOD_BRACE_STYLE" value="1" />

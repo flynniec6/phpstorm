@@ -7,6 +7,7 @@
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="inspect*.twig" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -19,6 +20,9 @@
       <mask>*.mxml</mask>
       <mask>*.php</mask>
       <mask>*.twig</mask>
+      <mask>inspe*.twig</mask>
+      <mask>inspec*.twig</mask>
+      <mask>inspect*.twig</mask>
     </recentFileMasks>
   </component>
 </application>

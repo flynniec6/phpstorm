@@ -3,18 +3,8 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*Collection.php" />
     <recentFileMasks>
-      <mask>*.properties</mask>
-      <mask>*.html</mask>
-      <mask>*.jsp</mask>
-      <mask>*.xml</mask>
-      <mask>*.java</mask>
-      <mask>*.js</mask>
-      <mask>*.as</mask>
-      <mask>*.css</mask>
-      <mask>*.mxml</mask>
-      <mask>*.php</mask>
-      <mask>inspe*.twig</mask>
       <mask>inspect*.twig</mask>
       <mask>inspec*.twig</mask>
       <mask>*.twig</mask>
@@ -34,6 +24,17 @@
       <mask>*.sc</mask>
       <mask>*.scs</mask>
       <mask>*.scss</mask>
+      <mask>*C.scss</mask>
+      <mask>*Co.scss</mask>
+      <mask>*Col.scss</mask>
+      <mask>*Colle.scss</mask>
+      <mask>*Collection.scss</mask>
+      <mask>*Collection.scs</mask>
+      <mask>*Collection.sc</mask>
+      <mask>*Collection.s</mask>
+      <mask>*Collection.</mask>
+      <mask>*Collection.p</mask>
+      <mask>*Collection.php</mask>
     </recentFileMasks>
   </component>
 </application>

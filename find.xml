@@ -3,7 +3,6 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*Collection.php" />
     <recentFileMasks>
       <mask>inspect*.twig</mask>
       <mask>inspec*.twig</mask>

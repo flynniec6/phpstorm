@@ -3,12 +3,8 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.twig" />
     <recentFileMasks>
-      <mask>M</mask>
-      <mask>*Mode.php</mask>
-      <mask>*Model.php</mask>
-      <mask>*h,¡¡</mask>
-      <mask>*h,¡</mask>
       <mask>*h,</mask>
       <mask>*h</mask>
       <mask>*.s</mask>
@@ -34,6 +30,11 @@
       <mask>*.page.</mask>
       <mask>*.page.twi</mask>
       <mask>*.page.twig</mask>
+      <mask>*.pag.twig</mask>
+      <mask>*.pa.twig</mask>
+      <mask>*.p.twig</mask>
+      <mask>*..twig</mask>
+      <mask>*.twig</mask>
     </recentFileMasks>
   </component>
 </application>

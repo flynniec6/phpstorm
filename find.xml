@@ -3,10 +3,8 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*Comm*" />
     <recentFileMasks>
-      <mask>*h,</mask>
-      <mask>*h</mask>
-      <mask>*.s</mask>
       <mask>*.sc</mask>
       <mask>*.scs</mask>
       <mask>*.scss</mask>
@@ -23,7 +21,6 @@
       <mask>*Collection.php</mask>
       <mask>pa</mask>
       <mask>p</mask>
-      <mask>*</mask>
       <mask>*.</mask>
       <mask>*.page</mask>
       <mask>*.page.</mask>
@@ -34,6 +31,10 @@
       <mask>*.p.twig</mask>
       <mask>*..twig</mask>
       <mask>*.twig</mask>
+      <mask>*</mask>
+      <mask>*comm</mask>
+      <mask>*comm*</mask>
+      <mask>*Comm*</mask>
     </recentFileMasks>
   </component>
 </application>

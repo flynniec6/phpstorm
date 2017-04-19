@@ -3,11 +3,8 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*lann*" />
     <recentFileMasks>
-      <mask>*.scs</mask>
-      <mask>*.scss</mask>
-      <mask>*C.scss</mask>
-      <mask>*Co.scss</mask>
       <mask>*Col.scss</mask>
       <mask>*Colle.scss</mask>
       <mask>*Collection.scss</mask>
@@ -32,8 +29,12 @@
       <mask>*comm</mask>
       <mask>*comm*</mask>
       <mask>*Comm*</mask>
-      <mask>*</mask>
       <mask>*.js</mask>
+      <mask>*</mask>
+      <mask>*la</mask>
+      <mask>*lan</mask>
+      <mask>*lann</mask>
+      <mask>*lann*</mask>
     </recentFileMasks>
   </component>
 </application>

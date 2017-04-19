@@ -1,13 +1,10 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
-    <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*lann*" />
+    <option name="customScope" value="NoLegacyCodeOnly" />
+    <option name="defaultScopeName" value="NoLegacyCodeOnly" />
+    <option name="SEARCH_SCOPE" value="NoLegacyCodeOnly" />
+    <option name="FILE_MASK" value="*.php" />
     <recentFileMasks>
-      <mask>*Col.scss</mask>
-      <mask>*Colle.scss</mask>
-      <mask>*Collection.scss</mask>
       <mask>*Collection.scs</mask>
       <mask>*Collection.sc</mask>
       <mask>*Collection.s</mask>
@@ -16,7 +13,6 @@
       <mask>*Collection.php</mask>
       <mask>pa</mask>
       <mask>p</mask>
-      <mask>*.</mask>
       <mask>*.page</mask>
       <mask>*.page.</mask>
       <mask>*.page.twi</mask>
@@ -35,6 +31,10 @@
       <mask>*lan</mask>
       <mask>*lann</mask>
       <mask>*lann*</mask>
+      <mask>*.</mask>
+      <mask>*.p</mask>
+      <mask>*.ph</mask>
+      <mask>*.php</mask>
     </recentFileMasks>
   </component>
 </application>

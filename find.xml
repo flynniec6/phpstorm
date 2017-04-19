@@ -4,7 +4,6 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
-      <mask>*.sc</mask>
       <mask>*.scs</mask>
       <mask>*.scss</mask>
       <mask>*C.scss</mask>
@@ -30,10 +29,11 @@
       <mask>*.p.twig</mask>
       <mask>*..twig</mask>
       <mask>*.twig</mask>
-      <mask>*</mask>
       <mask>*comm</mask>
       <mask>*comm*</mask>
       <mask>*Comm*</mask>
+      <mask>*</mask>
+      <mask>*.js</mask>
     </recentFileMasks>
   </component>
 </application>

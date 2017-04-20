@@ -3,9 +3,8 @@
     <option name="customScope" value="NoLegacyCodeOnly" />
     <option name="defaultScopeName" value="NoLegacyCodeOnly" />
     <option name="SEARCH_SCOPE" value="NoLegacyCodeOnly" />
+    <option name="FILE_MASK" value="*.twig" />
     <recentFileMasks>
-      <mask>*Collection.scs</mask>
-      <mask>*Collection.sc</mask>
       <mask>*Collection.s</mask>
       <mask>*Collection.</mask>
       <mask>*Collection.p</mask>
@@ -20,7 +19,6 @@
       <mask>*.pa.twig</mask>
       <mask>*.p.twig</mask>
       <mask>*..twig</mask>
-      <mask>*.twig</mask>
       <mask>*comm</mask>
       <mask>*comm*</mask>
       <mask>*Comm*</mask>
@@ -34,6 +32,9 @@
       <mask>*.p</mask>
       <mask>*.ph</mask>
       <mask>*.php</mask>
+      <mask>*.t</mask>
+      <mask>*.tw</mask>
+      <mask>*.twig</mask>
     </recentFileMasks>
   </component>
 </application>

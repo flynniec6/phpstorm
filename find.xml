@@ -5,11 +5,8 @@
     <option name="defaultScopeName" value="NoLegacyCodeOnly" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="NoLegacyCodeOnly" />
+    <option name="FILE_MASK" value="*.twig" />
     <recentFileMasks>
-      <mask>*.pa.twig</mask>
-      <mask>*.p.twig</mask>
-      <mask>*comm</mask>
-      <mask>*comm*</mask>
       <mask>*Comm*</mask>
       <mask>*.js</mask>
       <mask>*</mask>
@@ -29,13 +26,17 @@
       <mask>*.s</mask>
       <mask>*.w</mask>
       <mask>*.twi</mask>
-      <mask>*.twig</mask>
-      <mask>*..twig</mask>
-      <mask>*.t.twig</mask>
-      <mask>*.tabl.twig</mask>
-      <mask>*.table.twig</mask>
-      <mask>*.table..twig</mask>
       <mask>*.table.page.twig</mask>
+      <mask>*.table.pag.twig</mask>
+      <mask>*.table.pa.twig</mask>
+      <mask>*.table.p.twig</mask>
+      <mask>*.table..twig</mask>
+      <mask>*.table.twig</mask>
+      <mask>*.tabl.twig</mask>
+      <mask>*.tab.twig</mask>
+      <mask>*.t.twig</mask>
+      <mask>*..twig</mask>
+      <mask>*.twig</mask>
     </recentFileMasks>
   </component>
 </application>

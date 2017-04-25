@@ -5,18 +5,10 @@
     <option name="defaultScopeName" value="NoLegacyCodeOnly" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="NoLegacyCodeOnly" />
-    <option name="FILE_MASK" value="*.scss" />
+    <option name="FILE_MASK" value="*.table.page.twig" />
     <recentFileMasks>
-      <mask>pa</mask>
-      <mask>p</mask>
-      <mask>*.page</mask>
-      <mask>*.page.</mask>
-      <mask>*.page.twi</mask>
-      <mask>*.page.twig</mask>
-      <mask>*.pag.twig</mask>
       <mask>*.pa.twig</mask>
       <mask>*.p.twig</mask>
-      <mask>*..twig</mask>
       <mask>*comm</mask>
       <mask>*comm*</mask>
       <mask>*Comm*</mask>
@@ -32,11 +24,19 @@
       <mask>*.php</mask>
       <mask>*.t</mask>
       <mask>*.tw</mask>
-      <mask>*.twig</mask>
-      <mask>*.s</mask>
-      <mask>*.sc</mask>
-      <mask>*.scs</mask>
       <mask>*.scss</mask>
+      <mask>*.scs</mask>
+      <mask>*.sc</mask>
+      <mask>*.s</mask>
+      <mask>*.w</mask>
+      <mask>*.twi</mask>
+      <mask>*.twig</mask>
+      <mask>*..twig</mask>
+      <mask>*.t.twig</mask>
+      <mask>*.tabl.twig</mask>
+      <mask>*.table.twig</mask>
+      <mask>*.table..twig</mask>
+      <mask>*.table.page.twig</mask>
     </recentFileMasks>
   </component>
 </application>

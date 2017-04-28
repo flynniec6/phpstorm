@@ -5,19 +5,16 @@
     <option name="defaultScopeName" value="NoLegacyCodeOnly" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="NoLegacyCodeOnly" />
+    <option name="FILE_MASK" value="*.scss" />
     <recentFileMasks>
-      <mask>*lan</mask>
-      <mask>*lann</mask>
       <mask>*lann*</mask>
       <mask>*.</mask>
       <mask>*.p</mask>
       <mask>*.ph</mask>
       <mask>*.php</mask>
       <mask>*.t</mask>
-      <mask>*.scss</mask>
       <mask>*.scs</mask>
       <mask>*.sc</mask>
-      <mask>*.s</mask>
       <mask>*.w</mask>
       <mask>*.table.page.twig</mask>
       <mask>*.table.pag.twig</mask>
@@ -36,6 +33,10 @@
       <mask>*.tw</mask>
       <mask>*.twi</mask>
       <mask>*.twig</mask>
+      <mask>*.s</mask>
+      <mask>*.ss</mask>
+      <mask>*.sss</mask>
+      <mask>*.scss</mask>
     </recentFileMasks>
   </component>
 </application>

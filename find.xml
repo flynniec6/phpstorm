@@ -5,6 +5,7 @@
     <option name="defaultScopeName" value="NoLegacyCodeOnly" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="NoLegacyCodeOnly" />
+    <option name="FILE_MASK" value="*.js" />
     <recentFileMasks>
       <mask>*lann*</mask>
       <mask>*.</mask>
@@ -12,7 +13,6 @@
       <mask>*.ph</mask>
       <mask>*.php</mask>
       <mask>*.t</mask>
-      <mask>*.scs</mask>
       <mask>*.sc</mask>
       <mask>*.w</mask>
       <mask>*.table.page.twig</mask>
@@ -27,15 +27,16 @@
       <mask>*..twig</mask>
       <mask>F*.js</mask>
       <mask>Fi*.js</mask>
-      <mask>*.js</mask>
       <mask>*.j</mask>
       <mask>*.tw</mask>
       <mask>*.twi</mask>
       <mask>*.twig</mask>
-      <mask>*.s</mask>
-      <mask>*.ss</mask>
       <mask>*.sss</mask>
       <mask>*.scss</mask>
+      <mask>*.scs</mask>
+      <mask>*.ss</mask>
+      <mask>*.s</mask>
+      <mask>*.js</mask>
     </recentFileMasks>
   </component>
 </application>

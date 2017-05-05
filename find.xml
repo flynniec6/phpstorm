@@ -5,12 +5,10 @@
     <option name="defaultScopeName" value="NoLegacyCodeOnly" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="NoLegacyCodeOnly" />
-    <option name="FILE_MASK" value="*.twig" />
+    <option name="FILE_MASK" value="*.php" />
     <recentFileMasks>
       <mask>*lann*</mask>
-      <mask>*.p</mask>
       <mask>*.ph</mask>
-      <mask>*.php</mask>
       <mask>*.t</mask>
       <mask>*.sc</mask>
       <mask>*.w</mask>
@@ -37,6 +35,8 @@
       <mask>*.</mask>
       <mask>*.twi</mask>
       <mask>*.twig</mask>
+      <mask>*.p</mask>
+      <mask>*.php</mask>
     </recentFileMasks>
   </component>
 </application>

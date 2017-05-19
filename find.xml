@@ -3,6 +3,7 @@
     <option name="customScope" value="NoLegacyCodeOnly" />
     <option name="defaultScopeName" value="NoLegacyCodeOnly" />
     <option name="SEARCH_SCOPE" value="NoLegacyCodeOnly" />
+    <option name="FILE_MASK" value="*.twig" />
     <recentFileMasks>
       <mask>*.php</mask>
       <mask>*.ti</mask>
@@ -26,14 +27,14 @@
       <mask>*inspect.section.*.twig</mask>
       <mask>*</mask>
       <mask>*.t</mask>
-      <mask>*.tw</mask>
       <mask>*.</mask>
       <mask>*.twi</mask>
-      <mask>*.twig</mask>
       <mask>*.s</mask>
       <mask>*.sc</mask>
       <mask>*.scs</mask>
       <mask>*.scss</mask>
+      <mask>*.tw</mask>
+      <mask>*.twig</mask>
     </recentFileMasks>
   </component>
 </application>

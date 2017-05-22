@@ -5,6 +5,7 @@
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="NoLegacyCodeOnly" />
+    <option name="FILE_MASK" value="*.twig" />
     <recentFileMasks>
       <mask>*.tiwg</mask>
       <mask>*.tig</mask>
@@ -24,18 +25,18 @@
       <mask>inspect.section.*.twig</mask>
       <mask>*inspect.section.*.twig</mask>
       <mask>*</mask>
-      <mask>*.t</mask>
       <mask>*.</mask>
       <mask>*.twi</mask>
       <mask>*.s</mask>
       <mask>*.sc</mask>
       <mask>*.scs</mask>
       <mask>*.tw</mask>
-      <mask>*.twig</mask>
       <mask>*.c</mask>
       <mask>*.cs</mask>
       <mask>*.css</mask>
       <mask>*.scss</mask>
+      <mask>*.t</mask>
+      <mask>*.twig</mask>
     </recentFileMasks>
   </component>
 </application>

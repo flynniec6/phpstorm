@@ -5,13 +5,13 @@
     <option name="defaultScopeName" value="NoLegacyCodeOnly" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="NoLegacyCodeOnly" />
+    <option name="FILE_MASK" value="*.js" />
     <recentFileMasks>
       <mask>*.tiwg</mask>
       <mask>*.tig</mask>
       <mask>*.twgg</mask>
       <mask>*.twg</mask>
       <mask>*.j</mask>
-      <mask>*.js</mask>
       <mask>inspt*.twig</mask>
       <mask>insp*.twig</mask>
       <mask>inspe*.twig</mask>
@@ -24,7 +24,6 @@
       <mask>inspect.section.*.twig</mask>
       <mask>*inspect.section.*.twig</mask>
       <mask>*</mask>
-      <mask>*.</mask>
       <mask>*.twi</mask>
       <mask>*.tw</mask>
       <mask>*.c</mask>
@@ -36,6 +35,8 @@
       <mask>*.sc</mask>
       <mask>*.scs</mask>
       <mask>*.scss</mask>
+      <mask>*.</mask>
+      <mask>*.js</mask>
     </recentFileMasks>
   </component>
 </application>

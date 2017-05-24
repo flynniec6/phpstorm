@@ -10,7 +10,6 @@
       <mask>*.tig</mask>
       <mask>*.twgg</mask>
       <mask>*.twg</mask>
-      <mask>*.j</mask>
       <mask>inspt*.twig</mask>
       <mask>insp*.twig</mask>
       <mask>inspe*.twig</mask>
@@ -30,12 +29,13 @@
       <mask>*.css</mask>
       <mask>*.t</mask>
       <mask>*.twig</mask>
+      <mask>*.js</mask>
+      <mask>*.j</mask>
+      <mask>*.</mask>
       <mask>*.s</mask>
       <mask>*.sc</mask>
       <mask>*.scs</mask>
       <mask>*.scss</mask>
-      <mask>*.</mask>
-      <mask>*.js</mask>
     </recentFileMasks>
   </component>
 </application>

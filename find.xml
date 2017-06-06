@@ -3,7 +3,7 @@
     <option name="customScope" value="NoLegacyCodeOnly" />
     <option name="defaultScopeName" value="NoLegacyCodeOnly" />
     <option name="SEARCH_SCOPE" value="NoLegacyCodeOnly" />
-    <option name="FILE_MASK" value="*.twig" />
+    <option name="FILE_MASK" value="*.js" />
     <recentFileMasks>
       <mask>*.tiwg</mask>
       <mask>*.tig</mask>
@@ -26,15 +26,15 @@
       <mask>*.cs</mask>
       <mask>*.css</mask>
       <mask>*.t</mask>
-      <mask>*.sc</mask>
       <mask>*.j</mask>
-      <mask>*.js</mask>
-      <mask>*.s</mask>
-      <mask>*.scs</mask>
-      <mask>*.scss</mask>
       <mask>*</mask>
       <mask>*.</mask>
       <mask>*.twig</mask>
+      <mask>*.s</mask>
+      <mask>*.sc</mask>
+      <mask>*.scs</mask>
+      <mask>*.scss</mask>
+      <mask>*.js</mask>
     </recentFileMasks>
   </component>
 </application>

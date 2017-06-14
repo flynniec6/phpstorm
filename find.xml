@@ -2,8 +2,6 @@
   <component name="FindSettings">
     <option name="customScope" value="NoLegacyCodeOnly" />
     <option name="defaultScopeName" value="NoLegacyCodeOnly" />
-    <option name="wholeWordsOnly" value="true" />
-    <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="NoLegacyCodeOnly" />
     <recentFileMasks>
       <mask>*.tig</mask>

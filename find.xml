@@ -3,9 +3,8 @@
     <option name="customScope" value="NoLegacyCodeOnly" />
     <option name="defaultScopeName" value="NoLegacyCodeOnly" />
     <option name="SEARCH_SCOPE" value="NoLegacyCodeOnly" />
+    <option name="FILE_MASK" value="*.sql" />
     <recentFileMasks>
-      <mask>*.tig</mask>
-      <mask>*.twgg</mask>
       <mask>*.twg</mask>
       <mask>inspt*.twig</mask>
       <mask>insp*.twig</mask>
@@ -30,10 +29,12 @@
       <mask>*.t</mask>
       <mask>*.twi</mask>
       <mask>*.twig</mask>
-      <mask>*.s</mask>
       <mask>*.sc</mask>
       <mask>*.scs</mask>
       <mask>*.scss</mask>
+      <mask>*.s</mask>
+      <mask>*.sq</mask>
+      <mask>*.sql</mask>
     </recentFileMasks>
   </component>
 </application>

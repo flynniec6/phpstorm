@@ -3,27 +3,8 @@
     <option name="customScope" value="NoLegacyCodeOnly" />
     <option name="defaultScopeName" value="NoLegacyCodeOnly" />
     <option name="SEARCH_SCOPE" value="NoLegacyCodeOnly" />
+    <option name="FILE_MASK" value="*inspect*.twig" />
     <recentFileMasks>
-      <mask>*.twg</mask>
-      <mask>inspt*.twig</mask>
-      <mask>insp*.twig</mask>
-      <mask>inspe*.twig</mask>
-      <mask>inspec*.twig</mask>
-      <mask>inspect*.twig</mask>
-      <mask>inspect.*.twig</mask>
-      <mask>inspect.se*.twig</mask>
-      <mask>inspect.sec*.twig</mask>
-      <mask>inspect.section*.twig</mask>
-      <mask>inspect.section.*.twig</mask>
-      <mask>*inspect.section.*.twig</mask>
-      <mask>*.c</mask>
-      <mask>*.cs</mask>
-      <mask>*.css</mask>
-      <mask>*</mask>
-      <mask>*.php</mask>
-      <mask>*.js</mask>
-      <mask>*.j</mask>
-      <mask>*.</mask>
       <mask>*.sq</mask>
       <mask>*.sql</mask>
       <mask>*.t</mask>
@@ -34,6 +15,26 @@
       <mask>*.sc</mask>
       <mask>*.scs</mask>
       <mask>*.scss</mask>
+      <mask>**.scss</mask>
+      <mask>*inspe*.scss</mask>
+      <mask>*inspec*.scss</mask>
+      <mask>*inspect*.scss</mask>
+      <mask>*inspect.section.*.twig*.scss</mask>
+      <mask>*inspect.section.*.twig*.scs</mask>
+      <mask>*inspect.section.*.twig*.sc</mask>
+      <mask>*inspect.section.*.twig*.s</mask>
+      <mask>*inspect.section.*.twig*.</mask>
+      <mask>*inspect.section.*.twig*</mask>
+      <mask>*inspect.section.*.twig</mask>
+      <mask>*inspect.sectio.*.twig</mask>
+      <mask>*inspect.secti.*.twig</mask>
+      <mask>*inspect.sect.*.twig</mask>
+      <mask>*inspect.sec.*.twig</mask>
+      <mask>*inspect.se.*.twig</mask>
+      <mask>*inspect.s.*.twig</mask>
+      <mask>*inspect..*.twig</mask>
+      <mask>*inspect.*.twig</mask>
+      <mask>*inspect*.twig</mask>
     </recentFileMasks>
   </component>
 </application>

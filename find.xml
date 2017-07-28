@@ -3,7 +3,6 @@
     <option name="customScope" value="NoLegacyCodeOnly" />
     <option name="defaultScopeName" value="NoLegacyCodeOnly" />
     <option name="SEARCH_SCOPE" value="NoLegacyCodeOnly" />
-    <option name="FILE_MASK" value="*.js" />
     <recentFileMasks>
       <mask>*.twi</mask>
       <mask>*.twig</mask>

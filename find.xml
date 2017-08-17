@@ -3,6 +3,7 @@
     <option name="customScope" value="NoLegacyCodeOnly" />
     <option name="defaultScopeName" value="NoLegacyCodeOnly" />
     <option name="SEARCH_SCOPE" value="NoLegacyCodeOnly" />
+    <option name="FILE_MASK" value="*.scss" />
     <recentFileMasks>
       <mask>*inspe*.scss</mask>
       <mask>*inspec*.scss</mask>
@@ -26,7 +27,6 @@
       <mask>*.s</mask>
       <mask>*.sq</mask>
       <mask>*.sql</mask>
-      <mask>*.scss</mask>
       <mask>*</mask>
       <mask>*.</mask>
       <mask>*.t</mask>
@@ -34,6 +34,7 @@
       <mask>*.twig</mask>
       <mask>*.j</mask>
       <mask>*.js</mask>
+      <mask>*.scss</mask>
     </recentFileMasks>
   </component>
 </application>

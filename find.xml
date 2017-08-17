@@ -3,6 +3,7 @@
     <option name="customScope" value="NoLegacyCodeOnly" />
     <option name="defaultScopeName" value="NoLegacyCodeOnly" />
     <option name="SEARCH_SCOPE" value="NoLegacyCodeOnly" />
+    <option name="FILE_MASK" value="*.js" />
     <recentFileMasks>
       <mask>*inspe*.scss</mask>
       <mask>*inspec*.scss</mask>
@@ -23,17 +24,17 @@
       <mask>*inspect..*.twig</mask>
       <mask>*inspect.*.twig</mask>
       <mask>*inspect*.twig</mask>
-      <mask>*.j</mask>
       <mask>*.s</mask>
       <mask>*.sq</mask>
       <mask>*.sql</mask>
       <mask>*.scss</mask>
       <mask>*</mask>
       <mask>*.</mask>
-      <mask>*.js</mask>
       <mask>*.t</mask>
       <mask>*.tw</mask>
       <mask>*.twig</mask>
+      <mask>*.j</mask>
+      <mask>*.js</mask>
     </recentFileMasks>
   </component>
 </application>

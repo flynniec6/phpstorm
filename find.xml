@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="NoLegacyCodeOnly" />
-    <option name="defaultScopeName" value="NoLegacyCodeOnly" />
-    <option name="SEARCH_SCOPE" value="NoLegacyCodeOnly" />
+    <option name="customScope" value="Exclude generated" />
+    <option name="defaultScopeName" value="Exclude generated" />
+    <option name="SEARCH_SCOPE" value="Exclude generated" />
     <recentFileMasks>
       <mask>*inspe*.scss</mask>
       <mask>*inspec*.scss</mask>

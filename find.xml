@@ -2,8 +2,6 @@
   <component name="FindSettings">
     <option name="customScope" value="Exclude generated" />
     <option name="defaultScopeName" value="Exclude generated" />
-    <option name="regularExpressions" value="true" />
-    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="Exclude generated" />
     <recentFileMasks>
       <mask>*inspe*.scss</mask>

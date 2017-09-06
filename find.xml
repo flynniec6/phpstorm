@@ -4,8 +4,6 @@
     <option name="defaultScopeName" value="Exclude generated" />
     <option name="SEARCH_SCOPE" value="Exclude generated" />
     <recentFileMasks>
-      <mask>*inspe*.scss</mask>
-      <mask>*inspec*.scss</mask>
       <mask>*inspect*.scss</mask>
       <mask>*inspect.section.*.twig*.scss</mask>
       <mask>*inspect.section.*.twig*.scs</mask>
@@ -34,6 +32,8 @@
       <mask>*.j</mask>
       <mask>*.js</mask>
       <mask>*.scss</mask>
+      <mask>*.ph</mask>
+      <mask>*.php</mask>
     </recentFileMasks>
   </component>
 </application>

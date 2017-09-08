@@ -3,17 +3,8 @@
     <option name="customScope" value="Exclude generated" />
     <option name="defaultScopeName" value="Exclude generated" />
     <option name="SEARCH_SCOPE" value="Exclude generated" />
+    <option name="FILE_MASK" value="*.twig" />
     <recentFileMasks>
-      <mask>*inspect*.scss</mask>
-      <mask>*inspect.section.*.twig*.scss</mask>
-      <mask>*inspect.section.*.twig*.scs</mask>
-      <mask>*inspect.section.*.twig*.sc</mask>
-      <mask>*inspect.section.*.twig*.s</mask>
-      <mask>*inspect.section.*.twig*.</mask>
-      <mask>*inspect.section.*.twig*</mask>
-      <mask>*inspect.section.*.twig</mask>
-      <mask>*inspect.sectio.*.twig</mask>
-      <mask>*inspect.secti.*.twig</mask>
       <mask>*inspect.sect.*.twig</mask>
       <mask>*inspect.sec.*.twig</mask>
       <mask>*inspect.se.*.twig</mask>
@@ -28,12 +19,22 @@
       <mask>*.</mask>
       <mask>*.t</mask>
       <mask>*.tw</mask>
-      <mask>*.twig</mask>
       <mask>*.j</mask>
       <mask>*.js</mask>
       <mask>*.scss</mask>
       <mask>*.ph</mask>
       <mask>*.php</mask>
+      <mask>*.twi</mask>
+      <mask>fa*.twig</mask>
+      <mask>facil*.twig</mask>
+      <mask>facil/*.twig</mask>
+      <mask>facil*/*.twig</mask>
+      <mask>*facil*/*.twig</mask>
+      <mask>*facili*/*.twig</mask>
+      <mask>*faciliti*/*.twig</mask>
+      <mask>*facilitie*/*.twig</mask>
+      <mask>*facilities*/*.twig</mask>
+      <mask>*.twig</mask>
     </recentFileMasks>
   </component>
 </application>

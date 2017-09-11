@@ -3,25 +3,19 @@
     <option name="customScope" value="Exclude generated" />
     <option name="defaultScopeName" value="Exclude generated" />
     <option name="SEARCH_SCOPE" value="Exclude generated" />
-    <option name="FILE_MASK" value="*.twig" />
+    <option name="FILE_MASK" value="*.scss" />
     <recentFileMasks>
-      <mask>*inspect.sect.*.twig</mask>
-      <mask>*inspect.sec.*.twig</mask>
       <mask>*inspect.se.*.twig</mask>
       <mask>*inspect.s.*.twig</mask>
       <mask>*inspect..*.twig</mask>
       <mask>*inspect.*.twig</mask>
       <mask>*inspect*.twig</mask>
-      <mask>*.s</mask>
       <mask>*.sq</mask>
       <mask>*.sql</mask>
-      <mask>*</mask>
-      <mask>*.</mask>
       <mask>*.t</mask>
       <mask>*.tw</mask>
       <mask>*.j</mask>
       <mask>*.js</mask>
-      <mask>*.scss</mask>
       <mask>*.ph</mask>
       <mask>*.php</mask>
       <mask>*.twi</mask>
@@ -35,6 +29,12 @@
       <mask>*facilitie*/*.twig</mask>
       <mask>*facilities*/*.twig</mask>
       <mask>*.twig</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.s</mask>
+      <mask>*.sc</mask>
+      <mask>*.scs</mask>
+      <mask>*.scss</mask>
     </recentFileMasks>
   </component>
 </application>

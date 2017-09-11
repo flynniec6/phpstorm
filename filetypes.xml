@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern=".bash_alias" type="ActionScript" />
+      <mapping pattern=".bash_aliases" type="Bash" />
     </extensionMap>
   </component>
 </application>

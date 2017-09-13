@@ -3,9 +3,8 @@
     <option name="customScope" value="Exclude generated" />
     <option name="defaultScopeName" value="Exclude generated" />
     <option name="SEARCH_SCOPE" value="Exclude generated" />
+    <option name="FILE_MASK" value="*.twig" />
     <recentFileMasks>
-      <mask>*.j</mask>
-      <mask>*.js</mask>
       <mask>*.ph</mask>
       <mask>*.php</mask>
       <mask>*.twi</mask>
@@ -18,13 +17,10 @@
       <mask>*faciliti*/*.twig</mask>
       <mask>*facilitie*/*.twig</mask>
       <mask>*facilities*/*.twig</mask>
-      <mask>*.twig</mask>
-      <mask>*.</mask>
       <mask>*.s</mask>
       <mask>*.sc</mask>
       <mask>*.scs</mask>
       <mask>*.scss</mask>
-      <mask>*</mask>
       <mask>*Co</mask>
       <mask>*Col</mask>
       <mask>*Colle</mask>
@@ -34,6 +30,11 @@
       <mask>*Collection.</mask>
       <mask>*Collection.p</mask>
       <mask>*Collection.php</mask>
+      <mask>*Collection.pp</mask>
+      <mask>p</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.twig</mask>
     </recentFileMasks>
   </component>
 </application>

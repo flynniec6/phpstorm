@@ -4,14 +4,6 @@
     <option name="defaultScopeName" value="Exclude generated" />
     <option name="SEARCH_SCOPE" value="Exclude generated" />
     <recentFileMasks>
-      <mask>*.ph</mask>
-      <mask>*.php</mask>
-      <mask>*.twi</mask>
-      <mask>fa*.twig</mask>
-      <mask>facil*.twig</mask>
-      <mask>facil/*.twig</mask>
-      <mask>facil*/*.twig</mask>
-      <mask>*facil*/*.twig</mask>
       <mask>*facili*/*.twig</mask>
       <mask>*faciliti*/*.twig</mask>
       <mask>*facilitie*/*.twig</mask>
@@ -31,9 +23,17 @@
       <mask>*Collection.php</mask>
       <mask>*Collection.pp</mask>
       <mask>p</mask>
-      <mask>*</mask>
       <mask>*.</mask>
       <mask>*.twig</mask>
+      <mask>*</mask>
+      <mask>*M</mask>
+      <mask>*Mo</mask>
+      <mask>*Mod</mask>
+      <mask>*Model</mask>
+      <mask>*Model.</mask>
+      <mask>*Model.p</mask>
+      <mask>*Model.ph</mask>
+      <mask>*Model.php</mask>
     </recentFileMasks>
   </component>
 </application>

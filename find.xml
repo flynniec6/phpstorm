@@ -3,12 +3,8 @@
     <option name="customScope" value="Exclude generated" />
     <option name="defaultScopeName" value="Exclude generated" />
     <option name="SEARCH_SCOPE" value="Exclude generated" />
-    <option name="FILE_MASK" value="*table*.twig" />
+    <option name="FILE_MASK" value="*.scss" />
     <recentFileMasks>
-      <mask>*.sc</mask>
-      <mask>*.scs</mask>
-      <mask>*.scss</mask>
-      <mask>*Co</mask>
       <mask>*Col</mask>
       <mask>*Colle</mask>
       <mask>*Collec</mask>
@@ -35,6 +31,10 @@
       <mask>*t*.twig</mask>
       <mask>*tabl*.twig</mask>
       <mask>*table*.twig</mask>
+      <mask>*.s</mask>
+      <mask>*.sc</mask>
+      <mask>*.scs</mask>
+      <mask>*.scss</mask>
     </recentFileMasks>
   </component>
 </application>

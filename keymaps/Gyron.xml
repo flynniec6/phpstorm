@@ -1,4 +1,10 @@
 <keymap version="1" name="Gyron" parent="Mac OS X 10.5+">
+  <action id="Back">
+    <keyboard-shortcut first-keystroke="meta open_bracket" />
+    <keyboard-shortcut first-keystroke="meta alt left" />
+    <mouse-shortcut keystroke="button4" />
+    <keyboard-shortcut first-keystroke="meta back_quote" />
+  </action>
   <action id="FileChooser.TogglePathShowing" />
   <action id="FileStructurePopup">
     <keyboard-shortcut first-keystroke="meta r" />
@@ -6,6 +12,7 @@
   <action id="GotoFile">
     <keyboard-shortcut first-keystroke="meta p" />
   </action>
+  <action id="NextProjectWindow" />
   <action id="ParameterInfo" />
   <action id="Refresh" />
   <action id="Replace">

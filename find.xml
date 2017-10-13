@@ -1,13 +1,10 @@
 <application>
   <component name="FindSettings">
-    <option name="caseSensitive" value="true" />
     <option name="customScope" value="Exclude generated" />
     <option name="defaultScopeName" value="Exclude generated" />
-    <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="Exclude generated" />
+    <option name="FILE_MASK" value="*.php" />
     <recentFileMasks>
-      <mask>*Col</mask>
-      <mask>*Colle</mask>
       <mask>*Collec</mask>
       <mask>*Collect</mask>
       <mask>*Collection</mask>
@@ -24,8 +21,6 @@
       <mask>*Model.p</mask>
       <mask>*Model.ph</mask>
       <mask>*Model.php</mask>
-      <mask>*</mask>
-      <mask>*.</mask>
       <mask>*.twi</mask>
       <mask>*.twig</mask>
       <mask>**.twig</mask>
@@ -36,6 +31,10 @@
       <mask>*.sc</mask>
       <mask>*.scs</mask>
       <mask>*.scss</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.p</mask>
+      <mask>*.php</mask>
     </recentFileMasks>
   </component>
 </application>

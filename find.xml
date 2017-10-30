@@ -3,13 +3,8 @@
     <option name="customScope" value="Exclude generated" />
     <option name="defaultScopeName" value="Exclude generated" />
     <option name="SEARCH_SCOPE" value="Exclude generated" />
-    <option name="FILE_MASK" value="*.scss" />
+    <option name="FILE_MASK" value="*Action.php" />
     <recentFileMasks>
-      <mask>*Collec</mask>
-      <mask>*Collect</mask>
-      <mask>*Collection</mask>
-      <mask>*Collection.</mask>
-      <mask>*Collection.p</mask>
       <mask>*Collection.php</mask>
       <mask>*Collection.pp</mask>
       <mask>p</mask>
@@ -29,12 +24,17 @@
       <mask>*table*.twig</mask>
       <mask>*</mask>
       <mask>*.</mask>
-      <mask>*.p</mask>
-      <mask>*.php</mask>
       <mask>*.s</mask>
       <mask>*.sc</mask>
       <mask>*.scs</mask>
       <mask>*.scss</mask>
+      <mask>*.p</mask>
+      <mask>*.ph</mask>
+      <mask>*.php</mask>
+      <mask>*A.php</mask>
+      <mask>*Ac.php</mask>
+      <mask>*Act.php</mask>
+      <mask>*Action.php</mask>
     </recentFileMasks>
   </component>
 </application>

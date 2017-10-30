@@ -3,21 +3,8 @@
     <option name="customScope" value="Exclude generated" />
     <option name="defaultScopeName" value="Exclude generated" />
     <option name="SEARCH_SCOPE" value="Exclude generated" />
-    <option name="FILE_MASK" value="*Action.php" />
+    <option name="FILE_MASK" value="*.twig" />
     <recentFileMasks>
-      <mask>*Collection.php</mask>
-      <mask>*Collection.pp</mask>
-      <mask>p</mask>
-      <mask>*M</mask>
-      <mask>*Mo</mask>
-      <mask>*Mod</mask>
-      <mask>*Model</mask>
-      <mask>*Model.</mask>
-      <mask>*Model.p</mask>
-      <mask>*Model.ph</mask>
-      <mask>*Model.php</mask>
-      <mask>*.twi</mask>
-      <mask>*.twig</mask>
       <mask>**.twig</mask>
       <mask>*t*.twig</mask>
       <mask>*tabl*.twig</mask>
@@ -35,6 +22,19 @@
       <mask>*Ac.php</mask>
       <mask>*Act.php</mask>
       <mask>*Action.php</mask>
+      <mask>*Action.pp</mask>
+      <mask>*Action.p</mask>
+      <mask>*Actionp</mask>
+      <mask>*Actiop</mask>
+      <mask>*Actip</mask>
+      <mask>*Actp</mask>
+      <mask>*Acp</mask>
+      <mask>*Ap</mask>
+      <mask>*p</mask>
+      <mask>*t</mask>
+      <mask>*twi</mask>
+      <mask>*twig</mask>
+      <mask>*.twig</mask>
     </recentFileMasks>
   </component>
 </application>

@@ -4,7 +4,7 @@
     <property name="created">2016-10-09T23:49:18</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2016.2.0.0</property>
-    <property name="modified">2017-10-19T10:38:37</property>
+    <property name="modified">2017-11-07T16:51:04</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.3" />
   <font>
@@ -303,7 +303,7 @@
     </option>
     <option name="DEFAULT_BLOCK_COMMENT">
       <value>
-        <option name="FOREGROUND" value="505b66" />
+        <option name="FOREGROUND" value="afc0cb" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
@@ -420,7 +420,7 @@
     </option>
     <option name="DEFAULT_LINE_COMMENT">
       <value>
-        <option name="FOREGROUND" value="505b66" />
+        <option name="FOREGROUND" value="afc0cb" />
       </value>
     </option>
     <option name="DEFAULT_LOCAL_VARIABLE">
@@ -926,7 +926,7 @@
     </option>
     <option name="TEXT">
       <value>
-        <option name="FOREGROUND" value="8e9aa5" />
+        <option name="FOREGROUND" value="afc0cb" />
         <option name="BACKGROUND" value="282c34" />
       </value>
     </option>

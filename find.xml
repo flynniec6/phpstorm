@@ -3,17 +3,8 @@
     <option name="customScope" value="Exclude generated" />
     <option name="defaultScopeName" value="Exclude generated" />
     <option name="SEARCH_SCOPE" value="Exclude generated" />
+    <option name="FILE_MASK" value="*Collection.php" />
     <recentFileMasks>
-      <mask>*Actiop</mask>
-      <mask>*Actip</mask>
-      <mask>*Actp</mask>
-      <mask>*Acp</mask>
-      <mask>*Ap</mask>
-      <mask>*p</mask>
-      <mask>*twi</mask>
-      <mask>*twig</mask>
-      <mask>*.js</mask>
-      <mask>*t</mask>
       <mask>*ta</mask>
       <mask>*tab</mask>
       <mask>*tabl</mask>
@@ -27,13 +18,23 @@
       <mask>*test*</mask>
       <mask>*test*.</mask>
       <mask>*test*.php</mask>
-      <mask>*</mask>
       <mask>*.tw</mask>
       <mask>*.twig</mask>
       <mask>*.s</mask>
       <mask>*.sc</mask>
       <mask>*.scs</mask>
       <mask>*.scss</mask>
+      <mask>*</mask>
+      <mask>*C</mask>
+      <mask>*Co</mask>
+      <mask>*Col</mask>
+      <mask>*Colle</mask>
+      <mask>*Collec</mask>
+      <mask>*Collect</mask>
+      <mask>*Collection</mask>
+      <mask>*Collection.</mask>
+      <mask>*Collection.p</mask>
+      <mask>*Collection.php</mask>
     </recentFileMasks>
   </component>
 </application>

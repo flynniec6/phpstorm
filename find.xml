@@ -3,27 +3,16 @@
     <option name="customScope" value="Exclude generated" />
     <option name="defaultScopeName" value="Exclude generated" />
     <option name="SEARCH_SCOPE" value="Exclude generated" />
+    <option name="FILE_MASK" value="*wesome*" />
     <recentFileMasks>
-      <mask>*ta</mask>
-      <mask>*tab</mask>
-      <mask>*tabl</mask>
-      <mask>*tablle</mask>
-      <mask>*tabll</mask>
-      <mask>*table</mask>
-      <mask>*table*</mask>
-      <mask>*table*twi</mask>
-      <mask>*table*twig</mask>
-      <mask>*test</mask>
       <mask>*test*</mask>
       <mask>*test*.</mask>
       <mask>*test*.php</mask>
       <mask>*.tw</mask>
-      <mask>*.twig</mask>
       <mask>*.s</mask>
       <mask>*.sc</mask>
       <mask>*.scs</mask>
       <mask>*.scss</mask>
-      <mask>*</mask>
       <mask>*C</mask>
       <mask>*Co</mask>
       <mask>*Col</mask>
@@ -34,6 +23,18 @@
       <mask>*Collection.</mask>
       <mask>*Collection.p</mask>
       <mask>*Collection.php</mask>
+      <mask>.</mask>
+      <mask>.t</mask>
+      <mask>.twi</mask>
+      <mask>.twig</mask>
+      <mask>*.twig</mask>
+      <mask>*</mask>
+      <mask>*a</mask>
+      <mask>*awe</mask>
+      <mask>*awes</mask>
+      <mask>*awesome</mask>
+      <mask>*awesome*</mask>
+      <mask>*wesome*</mask>
     </recentFileMasks>
   </component>
 </application>

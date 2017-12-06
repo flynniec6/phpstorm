@@ -3,10 +3,8 @@
     <option name="customScope" value="Exclude generated" />
     <option name="defaultScopeName" value="Exclude generated" />
     <option name="SEARCH_SCOPE" value="Exclude generated" />
+    <option name="FILE_MASK" value="*.scss" />
     <recentFileMasks>
-      <mask>*Col</mask>
-      <mask>*Colle</mask>
-      <mask>*Collec</mask>
       <mask>*Collect</mask>
       <mask>*Collection</mask>
       <mask>*Collection.</mask>
@@ -29,11 +27,14 @@
       <mask>*inspect</mask>
       <mask>*inspect*</mask>
       <mask>*inspect*twig</mask>
-      <mask>*</mask>
       <mask>*.</mask>
-      <mask>*.s</mask>
       <mask>*.sq</mask>
       <mask>*.sql</mask>
+      <mask>*</mask>
+      <mask>*.s</mask>
+      <mask>*.sc</mask>
+      <mask>*.scs</mask>
+      <mask>*.scss</mask>
     </recentFileMasks>
   </component>
 </application>

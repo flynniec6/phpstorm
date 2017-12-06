@@ -3,7 +3,6 @@
     <option name="customScope" value="Exclude generated" />
     <option name="defaultScopeName" value="Exclude generated" />
     <option name="SEARCH_SCOPE" value="Exclude generated" />
-    <option name="FILE_MASK" value="*.scss" />
     <recentFileMasks>
       <mask>*Collect</mask>
       <mask>*Collection</mask>
